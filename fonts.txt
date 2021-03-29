@@ -1,0 +1,8 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Bubblegum+Sans&family=Monoton&display=swap" rel="stylesheet">
+header:-
+font-family: 'Monoton', cursive;
+sub-header:-
+font-family: 'Aguafina Script', cursive;
+button:-
+font-family: 'Bubblegum Sans', cursive;

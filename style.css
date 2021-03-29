@@ -1,0 +1,36 @@
+.headers{
+    font-size:40px !important;
+    color:purple;
+    font-variant:small-caps;
+    font-family: 'Monoton', cursive;
+
+}
+.labels{
+    font-size:30px !important;
+    color:green;
+    font-family: 'Aguafina Script', cursive;
+
+}
+.take{
+color:purple;
+background-color:orange;
+font-size:25px;
+border:solid 2px blue;
+padding:7px;
+border-radius: 20px;
+font-family: 'Bubblegum Sans', cursive;
+}
+.take:hover{
+    font-size:30px;
+}
+
+canvas{
+    animation-name:example;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+
+@keyframes example{
+    from{box-shadow:1px 1px 38px blue;}
+    to{box-shadow:1px 1px 38px pink;}
+}
